@@ -1,5 +1,3 @@
-
-
 list = ["Tim Jones", "Bob Costas", "Don Knotts"]
 
 
